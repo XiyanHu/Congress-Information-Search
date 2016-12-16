@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavBill" representedClassName="FavBill" syncable="YES" codeGenerationType="class">
+        <attribute name="favBillName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FavCom" representedClassName="FavCom" syncable="YES" codeGenerationType="class">
+        <attribute name="favComName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FavLegi" representedClassName="FavLegi" syncable="YES" codeGenerationType="class">
+        <attribute name="favLegiBioId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favLegiFname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favLegiLname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favLegiState" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FavCom" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="FavLegi" positionX="-54" positionY="0" width="128" height="105"/>
+        <element name="FavBill" positionX="-36" positionY="36" width="128" height="60"/>
+    </elements>
+</model>

@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.2.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SlideMenuControllerSwift (3.0.0)
+  - SwiftSpinner (1.1.0)
+  - SwiftyJSON (3.1.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage (~> 3.8)
+  - SlideMenuControllerSwift
+  - SwiftSpinner
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SlideMenuControllerSwift: 9c0a84f9a3fba51681debd7be77617094562ebcc
+  SwiftSpinner: c03815614599b91eea46594bd52ba742849d0414
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
+
+PODFILE CHECKSUM: f58bc64cb206f17818d57bc393770e0cbc035972
+
+COCOAPODS: 1.2.0.beta.1
